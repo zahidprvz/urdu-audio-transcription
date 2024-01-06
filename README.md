@@ -18,7 +18,7 @@ This project focuses on transcribing Urdu audio files into text using state-of-t
 
 To access and run the code in a Google Colab environment, simply open the provided Jupyter notebook:
 
-- [Urdu_Audio_Transcription.ipynb](Urdu_Audio_Transcription.ipynb)
+- [Urdu_Audio_Transcription.ipynb](Audio_Transcription_Urdu.ipynb)
 
 ## Usage
 
