@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or collaborations, please contact:
 
-- GitHub: [zahidparviz](https://github.com/zahidparviz)
+- GitHub: [zahidparviz](https://github.com/zahidprvz)
 - Email: [pervaizzahid55@gmail.com]
